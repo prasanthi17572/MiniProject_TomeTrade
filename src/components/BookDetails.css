@@ -1,0 +1,18 @@
+.rows
+{
+    /* background-color:rgb(16, 13, 13)grey; */
+  width: 500px;
+  border: 10px solid rgb(232, 7, 86);
+  padding: 50px;
+  /* margin: 20px; */
+  margin-left:350px ;
+}
+    h1 {
+        text-align: center;
+        text-transform: uppercase;
+        color: rgb(232, 7, 86);
+      }
+.img
+{
+  margin-left: 100px;
+}

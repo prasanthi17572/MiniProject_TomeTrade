@@ -1,0 +1,16 @@
+.table
+{
+    width: 500px;
+  border: 10px solid rgb(232, 7, 86);
+  padding: 50px;
+  /* margin: 20px; */
+  margin-left:400px ;
+  border-radius: 10px;
+  
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.table{
+    font-family: 'Times New Roman', Times, serif;
+}

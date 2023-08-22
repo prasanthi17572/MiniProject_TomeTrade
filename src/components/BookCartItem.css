@@ -1,0 +1,35 @@
+/* .row
+{
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    display:flex;
+}
+
+.book-item{
+    width: 500px;
+  border: 5px solid rgb(232, 7, 86);
+  padding: 50px;
+  /* margin: 20px; */
+  /* margin-left:400px ;
+  border-radius: 20px;
+} */
+ /*  */
+
+ .row
+ {
+     margin-left: 100px;
+     margin-right: 100px;
+     font-family: 'Times New Roman', Times, serif;
+     display:table-cell;
+ }
+
+.book-item{
+    width: 500px;
+  border: 2px solid rgb(240, 134, 171);
+  padding: 50px;
+  /* margin: 20px; */
+  margin-left:400px ;
+  border-radius: 20px;
+  display:table-cell;
+}
